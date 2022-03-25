@@ -1,3 +1,8 @@
+"""This utils file inspired from scikit learn implementation of loading 
+the naitive dtasets
+
+"""
+
 import csv
 import pandas as pd
 from matplotlib.pyplot import nipy_spectral
